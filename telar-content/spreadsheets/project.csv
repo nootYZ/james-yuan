@@ -1,6 +1,9 @@
-order,story_id,title,subtitle,byline,private
-orden,id_historia,titulo,subtitulo,firma,privada
-#,# Must match the tab name exactly. Use lowercase letters and hyphens (e.g. allegorical-woman),Story title,Optional subtitle,Optional attribution (supports markdown),"If ""yes"", then users will need the key you set in _config.yml to access this story."
-#,# Debe coincidir con el nombre de la pestaña exactamente. Usa letras minúsculas y guiones (p. ej. mujer-alegorica),Título de la historia,Subtítulo opcional,Atribución opcional (admite markdown),"Si ""sí"", los usuarios deberán utilizar la clave que fijes en _config.yml"
-1,blank_template,replace me with your title,,,FALSE
-2,plantilla_en_blanco,reemplázame con tu título,,,FALSE
+order,story_id,title,subtitle,byline,private,show_sections
+orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
+0,introduction-2sna,Introduction,"Love as care, support, and connection at UCSB",Shengjie Yuan,,
+1,love-as-a-6zy4,Love as a Small Act of Care at the Dorm Door,Community care through a small action,Shengjie Yuan,,
+2,hotspot-1-the-akn3,Love Through Shared Passion at the Fighting Game Club Competition,Friendship and belonging through a shared interest,Shengjie Yuan,,
+3,love-through-everyday-kpme,Love Through Everyday Friendship During Werewolf Game Night,Friendship and connection through shared play,Shengjie Yuan,,
+4,love-through-everyday-u80f,Love Through Academic Support Between Roommates,Peer support and care through learning,Shengjie Yuan,,
+5,conclusion-xumb,Conclusion,What I learned about love at UCSB,Shengjie Yuan,,
+6,works-cited-ysrs,Works Cited,,Shengjie Yuan,,
