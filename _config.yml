@@ -8,7 +8,7 @@ url: "https://nootyz.github.io"
 baseurl: "/james-yuan"
 author: "Shengjie Yuan"
 email: "shengjie@ucsb.edu"
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "santa-barbara"
 logo: ""
 telar_language: en
 collection_mode: false
